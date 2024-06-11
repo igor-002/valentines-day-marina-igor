@@ -98,12 +98,12 @@ a {
 }
 
 .text-inicio h1{
-    font-size: 24px;
+    font-size: 32px;
     font-weight: 900;
 }
 
 .text-inicio p{
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 400;
     padding-top: 10px;
     padding-bottom: 40px;
@@ -119,6 +119,8 @@ a {
 .galeria img{
     width: 340px;
     border-radius: 24px;
+    padding: 0px 10px;
+
 }
 
 .container-slider {
@@ -165,6 +167,16 @@ a {
   
   #prev-button {
     transform: rotate(180deg);
+  }
+  
+  .carrosel-text h1{
+    font-size: 32px;
+    font-weight: 900;
+  }
+
+  .carrosel-text p{
+    font-size: 18px;
+    font-weight: 400;
   }
 
 
