@@ -98,12 +98,12 @@ a {
 }
 
 .text-inicio h1{
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 900;
 }
 
 .text-inicio p{
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     padding-top: 10px;
     padding-bottom: 40px;
@@ -122,6 +122,8 @@ a {
     padding: 0px 10px;
 
 }
+
+
 
 .container-slider {
     display: flex;
